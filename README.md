@@ -13,3 +13,7 @@ Pull requestler kabul edilir.Büyük değişikler için, lütfen önce neyi değ
 ##License
 
 MIT
+
+[resim]: jpg/ilkrepo.jpg"Resim Başlığı"
+
+[patik.dev](https://app.patika.devl)
