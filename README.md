@@ -17,3 +17,4 @@ MIT
 [resim]: jpg/ilkrepo.jpg"Resim Başlığı"
 
 [patik.dev](https://app.patika.devl)
+
